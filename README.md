@@ -11,17 +11,17 @@
 	</tr>
 	<tr>
 		<td>1</td>
-		<td>Ejemplo calculadora</td>
-		<td><a href="Calculadora">Ir a ejemplo 1</a></td>
+		<td>Crear filas y columnas de * asteriscos</td>
+		<td><a href="asteriscos.psc">Ir a ejemplo 1</a></td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>Hoja de trabajo 1</td>
-		<td><a href="Ht1JavaDiegoYoc">Ir a ejemplo 2</a></td>
+		<td>Mostrar nombre con espacios</td>
+		<td><a href="espaciado.psc">Ir a ejemplo 2</a></td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>Parcial Java</td>
-		<td><a href="ParcialJavaDiegoYoc">Ir a ejemplo 3</a></td>
+		<td>Cambiar nombre a mayúsculas y minúsculas</td>
+		<td><a href="mayuminu.psc">Ir a ejemplo 3</a></td>
 	</tr>
 </table>
